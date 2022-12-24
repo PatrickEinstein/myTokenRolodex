@@ -1,0 +1,20 @@
+
+{ "name": "Frankeinstein", "id": 1 },
+
+{ "name": "Zombiester", "id": 2},
+
+{ "name": "Zarakikipenchi", "id": 3 },
+
+{ "name": "Kumarachiyuagha" , "id": 4},
+
+{ "name": "Yogayi" , "id": 5},
+
+{ "name": "Yamaosokro" , "id": 6},
+
+{ "name": "Chiagyuagh" , "id": 7},
+
+{ "name": "Azorazi" , "id": 8},
+
+{ "name": "Goya" , "id": 9},
+
+{ "name": "Xi- Jyungh" , "id": 10},
